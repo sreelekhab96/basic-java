@@ -1,4 +1,4 @@
-class Demo{
+class Demo1{
 	public static void main(String jenny[])
 	//this is comment
 	{
