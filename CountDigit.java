@@ -9,6 +9,7 @@ num=num/10;
 count++;
 }
 System.out.println(count);
+//This is comment
 }
 }
 
